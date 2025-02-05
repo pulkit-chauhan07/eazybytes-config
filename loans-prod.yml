@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank Loans related Prod APIs"
+  message: "Welcome to EazyBank Loans related production APIs"
   contactDetails:
     name: "Pulkit - SLO"
     email: "Pulkit@eazybank.com"
