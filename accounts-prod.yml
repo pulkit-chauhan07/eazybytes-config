@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts microservice related PROD APIs"
+  message: "Welcome to EazyBank accounts microservice related PRODUCTION APIs"
   contactDetails:
     name: "Johnny - SLO"
     email: "{cipher}634e0548d6f03f1082dbb44994e5a7d1add9743d3637a4aa3eac96d3b661937d6fb10f7c50deef722a981aa23a312a78"
